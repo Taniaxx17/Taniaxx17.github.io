@@ -12,7 +12,7 @@ body {
 
     margin: 0;
 
-    background-color: #e5b3f5;
+    background-color: #c5f3c7;
 
     color: #333;
 
@@ -24,7 +24,7 @@ body {
 
 header {
 
-    background-color: #c066d6;
+    background-color: #84b68fbb;
 
     color: white;
 
@@ -38,7 +38,7 @@ header h1 {
 
     margin: 0;
 
-    font-size: 36px;
+    font-size: 40px;
 
 }
 
@@ -46,7 +46,7 @@ header h1 {
 
 nav {
 
-    background-color: #1e293b;
+    background-color: #486858;
 
     text-align: center;
 
@@ -68,7 +68,7 @@ nav a {
 
 nav a:hover {
 
-    color: #d393fd;
+    color: #93fdaa;
 
 }
 
@@ -92,7 +92,7 @@ section {
 
 h2 {
 
-    color: #c675df;
+    color: #557760;
 
 }
 
@@ -106,7 +106,7 @@ h2 {
 
     padding: 40px 20px;
 
-    border-radius: 12px;
+    border-radius: 18px;
 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 
@@ -116,7 +116,7 @@ h2 {
 
 button {
 
-    background-color: #d386dd;
+    background-color: #465f56de;
 
     color: white;
 
@@ -134,7 +134,7 @@ button {
 
 button:hover {
 
-    background-color: #ac1dd8;
+    background-color: hsl(139, 30%, 84%);
 
 }
 
@@ -178,7 +178,7 @@ button:hover {
 
 footer {
 
-    background-color: #1e293b;
+    background-color: #345537d5;
 
     color: white;
 
